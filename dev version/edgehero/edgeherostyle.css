@@ -189,41 +189,11 @@ ul li ul {
   background:blue;
 		background-repeat: no-repeat;
 		background-position: left 0;
-		/*background-attachment: fixed; */
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
 		background-size: cover;
 	}
 	
-	
 
-	#navigation{
-		position: absolute;
-		top:40%;
-		width: 100%;
-		z-index: 99;
-	}
-	a.lt_arr, a.rt_arr{
-		text-decoration: none;
-	}
-	
-	a.lt_arr:hover, a.rt_arr:hover{
-		color: red;
-	}
-	.lt_arr, .rt_arr{
-		font-weight: 300;
-		position: absolute;
-		color: white;
-		font-size: 55px;
-		display: block;
-		padding: 20px;
-		z-index: 1;
-	}
-	.rt_arr{
-		right: 0;
-	}
-	.lt_arr{
-		left:0;
-	}
-	
+
