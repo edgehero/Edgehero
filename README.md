@@ -1,4 +1,4 @@
-Edgehero.js 1.1 
+Edgehero.js 1.2 
 
 EDGEHERO.JS
 More power, Less code
@@ -9,6 +9,7 @@ Edgehero.js supports centering, forms/inputs, html5 video,html5 audio, menus, ca
 Edgehero.js is a Jquery libary so it needs the jquery script enabled
 
 Documantation + downloads at: http://www.edgehero.com/edgehero
+Examples: http://edgehero.com/examples/
 
 Changes update 1.1
 
@@ -17,3 +18,11 @@ Changes update 1.1
  - Firefox backgroundvideo bug fixed.
  - List of minor bugs fixed
  - Optimised script
+
+Changes update 1.2
+
+ - val_ added, with this you can change the title of the input submit button.
+ - backgroundvideo_ can also be put on a video that is imported directly in edge animate.
+ - videolink_ can also be put on a video that is imported directly in edge animate
+ - Firefox bugs fixed.
+
